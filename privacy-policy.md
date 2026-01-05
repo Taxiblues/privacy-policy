@@ -56,7 +56,6 @@ I dati raccolti vengono utilizzati per le seguenti finalità:
   - calcolare distanze e percorsi di base.
 - Gestire l’accesso e l’autenticazione dell’utente (login con Google).
 - Migliorare l’esperienza d’uso e le prestazioni dell’App.
-- Effettuare analisi statistiche **anonime** sull’uso dell’App.
 - Garantire sicurezza, prevenire abusi o utilizzi impropri del servizio.
 
 **ParkingMate NON vende, NON affitta e NON cede i dati personali degli utenti a terze parti per finalità commerciali o pubblicitarie.**
