@@ -49,6 +49,10 @@ L\'App consente agli utenti di:
 
 - interagire mediante funzionalità di messaggistica interna.
 
+- L\'App non è servizio taxi
+
+- non garantisce condotta utenti
+
 **4. Dati personali raccolti**
 
 Sulla base delle informazioni fornite dal Titolare, l\'App può trattare
