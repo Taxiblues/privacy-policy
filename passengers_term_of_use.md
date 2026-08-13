@@ -1,256 +1,516 @@
 # Passengers - Termini di Utilizzo
 
+**Ultimo aggiornamento: 13 agosto 2026**
 
-Benvenuto su **Passengers**. I presenti Termini di Utilizzo (i **"Termini"**) disciplinano l’accesso e l’utilizzo dell’app mobile Passengers, dei siti web correlati, dei servizi, delle funzionalità e dei contenuti associati (collettivamente, il **"Servizio"**). Creando un account, accedendo o utilizzando Passengers, accetti i presenti Termini.
+Benvenuto su **Passengers**. I presenti Termini di Utilizzo (i **"Termini"**) disciplinano l'accesso e l'utilizzo dell'app mobile Passengers, dei servizi collegati, delle funzionalità e dei contenuti associati (collettivamente, il **"Servizio"**).
+
+Creando un account, accedendo al Servizio o utilizzando funzionalità che consentono di creare, caricare o condividere contenuti, dichiari di aver letto e accettato i presenti Termini e l'Informativa sulla Privacy.
 
 Se non accetti i presenti Termini, non utilizzare il Servizio.
 
----
+## 1. Gestore del Servizio e contatti
 
-## 1. Requisiti di idoneità
+Passengers è gestita da:
+
+**Maria Grazia Rosa Sbarra**  
+Email di contatto e supporto: **toppassengers@gmail.com**
+
+## 2. Requisiti di idoneità
 
 Per utilizzare Passengers devi:
 
-- avere almeno 18 anni, oppure l’età minima richiesta nel tuo Paese per concludere un accordo vincolante;
+- avere almeno **18 anni**;
 - fornire informazioni di registrazione accurate e complete;
-- rispettare i presenti Termini e tutte le leggi applicabili.
+- rispettare i presenti Termini, le regole della community e tutte le leggi applicabili.
 
-Sei responsabile della riservatezza delle credenziali del tuo account e di tutte le attività effettuate tramite il tuo account.
+Passengers non è destinata ai minori.
 
----
+Sei responsabile della riservatezza delle credenziali del tuo account e delle attività effettuate tramite il tuo account, salvo i casi in cui tali attività derivino da cause non imputabili all'utente.
 
-## 2. Descrizione del Servizio
+## 3. Descrizione e natura del Servizio
 
-Passengers è una piattaforma progettata per aiutare gli utenti a entrare in contatto con altre persone che condividono l’interesse per giri in moto, viaggi ed esperienze correlate.
+Passengers è una piattaforma sociale dedicata alla community motociclistica, progettata per aiutare biker e passenger a entrare in contatto e organizzare esperienze, giri, eventi e interazioni legate alla passione per la moto.
 
-Salvo ove espressamente indicato diversamente, Passengers **non** fornisce servizi di trasporto, **non** impiega conducenti e **non** garantisce il comportamento, l’identità, l’affidabilità, la sicurezza, la liceità, la qualità o l’idoneità di alcun utente, giro, viaggio, comunicazione o accordo concluso tramite il Servizio.
+Il Servizio può includere, tra l'altro:
 
-Gli utenti sono gli unici responsabili delle proprie decisioni, interazioni, comportamenti e della propria sicurezza.
+- profili biker e passenger;
+- community e ricerca di altri utenti;
+- amicizie, preferiti e altre relazioni sociali;
+- proposte e richieste di giri;
+- giri diretti tra utenti;
+- giri riservati agli amici;
+- giri di gruppo privati o aperti;
+- candidature, inviti, accettazioni e rifiuti;
+- chat e condivisione di immagini;
+- reazioni ai messaggi;
+- stories, commenti, tag, like e reazioni;
+- eventi motociclistici proposti dagli utenti o gestiti da Passengers;
+- funzioni di geolocalizzazione, distanza e live map;
+- informazioni meteo relative ai giri;
+- funzioni di sicurezza e supporto;
+- segnalazione e blocco utenti;
+- notifiche e annunci di servizio;
+- pubblicità e contenuti promozionali;
+- pubblicazione facoltativa di alcune stories sui feed social ufficiali di Passengers.
 
----
+Le funzionalità possono essere aggiunte, modificate, limitate o rese disponibili progressivamente in base a Paese, lingua, piattaforma e versione dell'App.
 
-## 3. Account utente e informazioni del profilo
+## 4. Passengers non è un servizio di trasporto
 
-Durante la creazione e la gestione del tuo account, accetti di:
+Passengers **non è un servizio taxi, NCC, di ridesharing commerciale, di noleggio o di trasporto professionale** e non impiega conducenti per trasportare utenti.
 
-- fornire informazioni veritiere, aggiornate e complete;
-- mantenere ragionevolmente aggiornate le informazioni del tuo profilo;
-- non impersonare alcuna persona fisica o giuridica;
-- non creare un account per conto di un’altra persona senza autorizzazione;
-- non creare account multipli per finalità ingannevoli, abusive o elusive.
+Passengers mette a disposizione strumenti digitali che consentono agli utenti di conoscersi e organizzarsi autonomamente.
 
-Possiamo sospendere, limitare o chiudere account che contengano informazioni false, fuorvianti o abusive.
+Salvo ove espressamente indicato, Passengers non verifica e non garantisce:
 
----
+- identità reale di ogni utente;
+- possesso o validità di patente, assicurazione, documenti o requisiti di guida;
+- caratteristiche, manutenzione o sicurezza dei veicoli;
+- capacità di guida o esperienza dichiarata;
+- correttezza delle informazioni inserite dagli utenti;
+- comportamento, affidabilità o intenzioni degli utenti;
+- sicurezza di un giro, itinerario, punto di incontro o evento;
+- rispetto delle norme stradali da parte degli utenti.
 
-## 4. Contenuti generati dagli utenti
+Ogni utente resta responsabile delle proprie decisioni, dei propri comportamenti e della propria sicurezza.
 
-Passengers può consentire agli utenti di creare, caricare, pubblicare, inviare o altrimenti condividere contenuti, inclusi, a titolo esemplificativo ma non esaustivo, informazioni del profilo, nomi utente, foto, dettagli dei giri, descrizioni, messaggi, recensioni, valutazioni e feedback (**"Contenuti dell’Utente"**).
+## 5. Account e informazioni del profilo
 
-Sei l’unico responsabile dei tuoi Contenuti dell’Utente e delle tue interazioni con gli altri utenti.
+Durante la creazione e gestione dell'account accetti di:
 
-Inviando Contenuti dell’Utente tramite il Servizio, dichiari e garantisci che:
+- fornire informazioni veritiere, aggiornate e non ingannevoli;
+- mantenere ragionevolmente aggiornati i dati del profilo;
+- non impersonare altre persone o soggetti;
+- non creare account per conto di terzi senza autorizzazione;
+- non creare account multipli per eludere blocchi, sospensioni, limitazioni o regole della piattaforma;
+- utilizzare foto e contenuti che hai diritto di pubblicare.
 
-- possiedi i contenuti o disponi dei diritti necessari per condividerli;
-- i contenuti non violano alcuna legge, regolamento o diritto di terzi;
-- i contenuti sono conformi ai presenti Termini.
+Passengers può utilizzare controlli backend per verificare lo stato dell'account e impedire l'accesso a utenti bloccati, sospesi o non autorizzati.
 
-Con l’invio dei Contenuti dell’Utente tramite il Servizio, concedi a Passengers una licenza non esclusiva, mondiale, gratuita, trasferibile e sublicenziabile per ospitare, archiviare, riprodurre, mostrare, moderare, adattare e utilizzare tali contenuti esclusivamente ai fini del funzionamento, miglioramento, sicurezza, revisione e promozione del Servizio.
+## 6. Community, amicizie, preferiti e visibilità
 
----
+Il Servizio consente di creare relazioni e interazioni tra utenti, incluse amicizie biker-passenger, biker-biker e passenger-passenger.
 
-## 5. Politica di tolleranza zero per contenuti inappropriati e comportamenti abusivi
+La visibilità di profili, stories, giri, eventi e altri contenuti può dipendere da:
 
-Passengers adotta una politica di **tolleranza zero** nei confronti di contenuti inappropriati e comportamenti abusivi.
+- relazione di amicizia;
+- ruolo biker/passenger;
+- Paese o area geografica;
+- distanza;
+- stato del giro o dell'evento;
+- impostazioni di visibilità;
+- blocchi tra utenti;
+- regole di sicurezza e moderazione.
 
-Sono severamente vietati all’interno del Servizio:
+Il numero di amici o altre metriche sociali visualizzate nel profilo sono informazioni funzionali del Servizio e possono cambiare quando cambiano le relazioni tra utenti.
+
+## 7. Geolocalizzazione, filtri a distanza e live map
+
+Alcune funzionalità utilizzano informazioni geografiche o la posizione del dispositivo.
+
+A seconda della funzione, Passengers può utilizzare:
+
+- Paese e area amministrativa del profilo;
+- coordinate associate all'area del profilo;
+- posizione corrente del dispositivo, se autorizzata;
+- coordinate di partenza, destinazione o punto di ritrovo di un giro;
+- posizione associata a stories o eventi;
+- dati di presenza sulla live map.
+
+Le funzioni di ricerca a distanza possono non produrre risultati quando la posizione necessaria non è disponibile.
+
+La **live map è una funzione facoltativa** e richiede l'attivazione prevista dall'App. Sei responsabile della scelta di rendere disponibile la tua presenza sulla mappa e devi usare particolare prudenza quando condividi informazioni di posizione con altri utenti.
+
+La posizione mostrata o calcolata può essere approssimativa, ritardata o non disponibile. Non deve essere utilizzata come unico strumento per emergenze, soccorso, navigazione professionale o localizzazione di sicurezza.
+
+## 8. Giri, proposte, richieste e giri di gruppo
+
+Gli utenti possono creare, proporre, scoprire o partecipare a diverse tipologie di giro.
+
+A seconda della funzione, un giro può essere:
+
+- diretto a uno o più utenti;
+- riservato agli amici;
+- privato o su invito;
+- aperto e scopribile da altri biker;
+- soggetto a richiesta di partecipazione e approvazione del creatore.
+
+Il creatore di un giro può avere la possibilità di accettare o rifiutare candidature, aggiornare informazioni, gestire partecipanti o chiudere il giro secondo le funzionalità disponibili.
+
+L'accettazione di una richiesta o di un invito non costituisce una garanzia da parte di Passengers e non crea un rapporto di lavoro, trasporto, mandato, agenzia o partnership tra Passengers e gli utenti.
+
+Gli accordi pratici tra utenti, inclusi orari, percorso, spese, equipaggiamento, comportamento e modalità di partecipazione, restano sotto la responsabilità degli utenti e devono rispettare la legge applicabile.
+
+## 9. Eventi proposti dagli utenti
+
+Ove disponibile, Passengers consente agli utenti di proporre eventi motociclistici.
+
+Gli eventi possono essere soggetti a un flusso di revisione amministrativa prima di diventare visibili pubblicamente. Passengers può:
+
+- richiedere informazioni o una locandina;
+- approvare o rifiutare un evento;
+- indicare un motivo di rifiuto;
+- richiedere una nuova revisione dopo modifiche sostanziali;
+- limitare il numero di eventi in preparazione, revisione o pubblicazione;
+- rimuovere o nascondere eventi che violino i presenti Termini o la legge.
+
+L'utente che propone un evento è responsabile dell'accuratezza delle informazioni, dei diritti sulla locandina e sugli altri materiali e della liceità dell'evento.
+
+L'approvazione editoriale da parte di Passengers non costituisce certificazione, organizzazione, sponsorizzazione o garanzia dell'evento, salvo ove ciò sia espressamente dichiarato.
+
+## 10. Contenuti generati dagli utenti
+
+Passengers consente agli utenti di creare, caricare, pubblicare, inviare o condividere contenuti, inclusi:
+
+- dati e immagini del profilo;
+- foto e informazioni relative alla moto;
+- dettagli e immagini dei giri;
+- messaggi e immagini di chat;
+- stories;
+- commenti, tag, like e reazioni;
+- eventi e locandine;
+- recensioni, valutazioni e feedback;
+- segnalazioni e comunicazioni di supporto;
+- altri contenuti resi disponibili dal Servizio.
+
+Questi materiali sono definiti **"Contenuti dell'Utente"**.
+
+Sei responsabile dei Contenuti dell'Utente che pubblichi o invii e dichiari di avere i diritti e le autorizzazioni necessarie per utilizzarli.
+
+In particolare, non devi pubblicare immagini, testi, dati personali o altri materiali di terzi senza avere un'idonea base o autorizzazione.
+
+## 11. Licenza sui Contenuti dell'Utente
+
+L'utente conserva i diritti sui propri Contenuti dell'Utente.
+
+Caricando o pubblicando contenuti nel Servizio, concedi a Passengers una licenza non esclusiva, gratuita, mondiale e limitata alla durata necessaria per:
+
+- ospitare e archiviare i contenuti;
+- mostrarli agli utenti autorizzati;
+- ridimensionarli, convertirli o adattarli tecnicamente per il funzionamento dell'App;
+- distribuire i contenuti nell'ambito delle funzioni richieste dall'utente;
+- moderarli e verificarne la conformità;
+- effettuare backup, sicurezza, manutenzione e supporto;
+- applicare i presenti Termini.
+
+La licenza è limitata a quanto necessario per fornire e proteggere il Servizio, salvo la separata autorizzazione prevista per la pubblicazione sui canali social ufficiali di Passengers.
+
+## 12. Stories e relative interazioni
+
+Le stories possono includere immagini, testo, località, tag di altri utenti, like, reazioni e commenti.
+
+La finestra ordinaria di visibilità delle stories nell'App è attualmente di **48 ore**, salvo cambiamenti del Servizio o regole di visibilità specifiche.
+
+L'utente deve utilizzare i tag responsabilmente e non deve:
+
+- taggare utenti allo scopo di molestarli o metterli in imbarazzo;
+- attribuire falsamente la partecipazione di una persona a un evento o situazione;
+- pubblicare informazioni private o sensibili di terzi senza autorizzazione.
+
+I commenti, le reazioni e i like sono anch'essi Contenuti dell'Utente o interazioni soggette ai presenti Termini.
+
+La fine della visibilità ordinaria di una story non implica necessariamente l'immediata cancellazione di ogni dato tecnico associato.
+
+## 13. Pubblicazione facoltativa delle stories sui social ufficiali
+
+Passengers può offrire all'utente la possibilità di proporre una story per la pubblicazione anche sui feed ufficiali Facebook e Instagram di Passengers.
+
+Questa funzione:
+
+- è facoltativa;
+- è disattivata per impostazione predefinita;
+- richiede una scelta positiva dell'utente;
+- genera una proposta separata rispetto alla normale pubblicazione della story nell'App;
+- prevede una fase di revisione amministrativa;
+- consente all'amministratore di modificare la caption destinata ai social;
+- può pubblicare separatamente sui due canali.
+
+Per la pubblicazione esterna possono essere utilizzati foto, titolo, descrizione e nickname dell'autore. Nel flusso attuale, luogo, indirizzo e persone taggate non vengono copiati nella caption esterna.
+
+Durante la fase di revisione prevista dall'App, l'utente può ritirare la proposta prima della pubblicazione.
+
+Con la scelta positiva, l'utente autorizza Passengers, per la specifica story proposta, a utilizzare il contenuto necessario per la revisione e l'eventuale pubblicazione sui canali social ufficiali di Passengers.
+
+L'amministratore può rifiutare la proposta a propria discrezione editoriale, anche in assenza di una violazione dei presenti Termini.
+
+Una volta che il contenuto è stato pubblicato su Facebook o Instagram, la sua rimozione dall'App o la successiva revoca dell'autorizzazione non ne determina necessariamente la cancellazione automatica dalla piattaforma esterna. L'utente può richiedere a Passengers la rimozione del post, ferma restando l'applicazione delle regole e degli strumenti messi a disposizione dalla piattaforma Meta.
+
+L'utente garantisce di possedere i diritti necessari anche per la pubblicazione esterna del contenuto proposto.
+
+## 14. Chat, immagini e comunicazioni tra utenti
+
+Le chat possono includere testo, immagini e reazioni.
+
+L'utente può disporre, ove previsto, di funzioni per eliminare un proprio messaggio o sostituire un'immagine condivisa.
+
+Non devi utilizzare chat o messaggistica per:
+
+- molestare o minacciare altri utenti;
+- inviare contenuti illegali o sessualmente espliciti;
+- inviare spam o comunicazioni commerciali non richieste;
+- raccogliere dati di altri utenti in modo improprio;
+- aggirare blocchi o limitazioni;
+- organizzare attività illegali o pericolose.
+
+Passengers può applicare controlli, filtri e strumenti di moderazione coerenti con la natura della funzione e con le segnalazioni ricevute.
+
+## 15. Notifiche, reminder e comunicazioni di servizio
+
+Passengers può inviare notifiche push o comunicazioni interne relative a:
+
+- chat e messaggi non letti;
+- giri, proposte, richieste e inviti;
+- amicizie;
+- stories, commenti, tag, like e reazioni;
+- eventi;
+- supporto;
+- sicurezza;
+- aggiornamenti dell'App;
+- annunci di servizio;
+- promemoria su interazioni o richieste pendenti.
+
+L'utente può disabilitare le notifiche push attraverso il sistema operativo. La disabilitazione delle push non impedisce necessariamente la visualizzazione nell'App di messaggi, badge o comunicazioni di servizio.
+
+## 16. Funzioni di sicurezza
+
+Passengers può mettere a disposizione profili sicurezza e flussi di safety associati ai giri.
+
+Tali funzioni sono strumenti di supporto e **non sostituiscono i servizi pubblici di emergenza, le forze dell'ordine, i servizi sanitari, il soccorso stradale o altri servizi professionali**.
+
+In caso di emergenza reale, l'utente deve utilizzare i numeri e i servizi di emergenza previsti nel luogo in cui si trova.
+
+Il numero di telefono o altri dati eventualmente utilizzati nei flussi safety devono essere corretti e appartenere all'utente o essere utilizzati con la necessaria autorizzazione.
+
+## 17. Politica di tolleranza zero per contenuti e comportamenti abusivi
+
+Passengers adotta una politica di **tolleranza zero** nei confronti di contenuti gravemente inappropriati e comportamenti abusivi.
+
+Sono vietati, tra l'altro:
 
 - molestie, bullismo, intimidazioni, stalking o minacce;
-- incitamento all’odio o contenuti che prendano di mira individui o gruppi sulla base di razza, etnia, nazionalità, religione, disabilità, genere, sesso, orientamento sessuale o altre caratteristiche protette;
+- incitamento all'odio o discriminazione contro persone o gruppi sulla base di caratteristiche protette;
 - contenuti sessualmente espliciti, di sfruttamento o comunque sessualmente inappropriati;
-- contenuti violenti, espliciti o pericolosi;
-- truffe, frodi, inganni, phishing, impersonificazione o attività fuorvianti;
-- promozione di attività illegali;
-- spam, contatti ripetuti non desiderati o comportamenti disturbanti;
-- condivisione di dati privati, riservati o personali di terzi senza autorizzazione;
-- qualunque contenuto o comportamento offensivo, abusivo, illecito o comunque inappropriato.
+- sfruttamento o abuso di minori;
+- contenuti che promuovono violenza grave, autolesionismo o attività pericolose;
+- truffe, frodi, phishing, impersonificazione o pratiche ingannevoli;
+- promozione o organizzazione di attività illegali;
+- spam e contatti ripetuti non desiderati;
+- diffusione di dati personali, riservati o sensibili di terzi senza autorizzazione;
+- violazioni di copyright, marchi o altri diritti di proprietà intellettuale;
+- contenuti o comportamenti che mettano concretamente a rischio la sicurezza degli utenti;
+- qualunque uso del Servizio contrario alla legge o ai presenti Termini.
 
-Qualsiasi utente che pubblichi contenuti inappropriati o tenga comportamenti abusivi potrà vedersi rimuovere i contenuti e potrà essere sospeso o bannato in modo permanente dal Servizio.
+## 18. Filtraggio, segnalazione, blocco e moderazione
 
----
+Passengers può utilizzare filtri automatici, parole bloccate, revisione manuale e strumenti amministrativi per individuare, limitare, esaminare o rimuovere contenuti e comportamenti vietati.
 
-## 6. Filtraggio dei contenuti, segnalazione e blocco
+### 18.1 Segnalazione
 
-Per contribuire a mantenere un ambiente sicuro, Passengers può utilizzare filtri automatici, revisione manuale e strumenti di moderazione per rilevare, limitare, esaminare o rimuovere contenuti e comportamenti vietati.
+Gli utenti possono segnalare contenuti, utenti o comportamenti tramite gli strumenti disponibili nell'App.
 
-### 6.1 Segnalazione
-Gli utenti possono segnalare direttamente nell’app contenuti inappropriati o utenti abusivi. Le segnalazioni possono riguardare profili, messaggi, recensioni, dettagli dei giri o altri contenuti generati dagli utenti.
+Le segnalazioni devono essere effettuate in buona fede e non devono essere usate per molestare, danneggiare o silenziare abusivamente altri utenti.
 
-Inviando una segnalazione, accetti di fornire informazioni veritiere e riconosci che anche segnalazioni abusive o effettuate in malafede possono costituire violazione dei presenti Termini.
+### 18.2 Blocco
 
-### 6.2 Blocco
-Gli utenti possono bloccare direttamente nell’app utenti abusivi o indesiderati. Quando un utente viene bloccato, Passengers può limitare o rimuovere immediatamente, per l’utente che ha effettuato il blocco, la visibilità del profilo, dei messaggi, dei contenuti e/o delle interazioni dell’utente bloccato.
+Gli utenti possono bloccare altri utenti tramite le funzioni disponibili. Il blocco può limitare la visibilità reciproca, le interazioni, i messaggi e altre relazioni presenti nel Servizio.
 
-### 6.3 Risposta di moderazione
-Passengers esamina le segnalazioni e i segnali di moderazione e si impegna ad agire sulle segnalazioni di contenuti inappropriati entro **24 ore**, inclusa, ove appropriato, la rimozione dei contenuti offensivi e la sospensione o espulsione degli utenti che violano i presenti Termini.
+### 18.3 Moderazione e interventi
 
-Passengers si riserva il diritto di investigare, esaminare, conservare e divulgare le informazioni rilevanti ove necessario per far rispettare i presenti Termini, proteggere gli utenti, rispettare la legge o rispondere a richieste legali.
+Passengers esamina le segnalazioni e i segnali di moderazione con priorità proporzionata alla gravità e mira a fornire risposte tempestive.
 
----
+A seconda del caso, Passengers può:
 
-## 7. Utilizzi vietati
+- rimuovere o nascondere contenuti;
+- impedire la pubblicazione di contenuti;
+- rifiutare un evento o una proposta social;
+- limitare funzionalità;
+- sospendere temporaneamente un account;
+- chiudere o bannare permanentemente un account;
+- preservare informazioni necessarie per documentare abusi o incidenti;
+- collaborare con le autorità quando richiesto dalla legge.
+
+Passengers non garantisce che ogni contenuto vietato venga individuato prima della pubblicazione, ma può intervenire quando il contenuto viene rilevato o segnalato.
+
+## 19. Utilizzi vietati
 
 Accetti di non:
 
 - utilizzare il Servizio per finalità illecite;
-- pubblicare o trasmettere contenuti vietati come descritti nei presenti Termini;
-- tentare di contattare, fare pressione o manipolare altri utenti al di fuori dell’uso sicuro previsto dalla piattaforma;
-- raccogliere, estrarre, acquisire o utilizzare impropriamente dati degli utenti;
-- interferire con il funzionamento, la sicurezza o l’integrità del Servizio;
-- decodificare, copiare, modificare o sfruttare il Servizio salvo quanto consentito dalla legge;
-- utilizzare bot, script o sistemi automatizzati per creare account, inviare messaggi o interagire con il Servizio senza autorizzazione;
-- aggirare ban, blocchi, restrizioni o azioni di moderazione.
+- creare account falsi o ingannevoli;
+- raccogliere, copiare, estrarre o rivendere dati degli utenti senza autorizzazione;
+- utilizzare bot, scraper, script o sistemi automatizzati non autorizzati;
+- tentare di aggirare controlli di accesso, RLS, blocchi, ban o sistemi di moderazione;
+- interferire con sicurezza, disponibilità o integrità del Servizio;
+- tentare di accedere a dati o account di altri utenti senza autorizzazione;
+- diffondere malware o codice dannoso;
+- utilizzare il Servizio per sorvegliare, perseguitare o localizzare impropriamente una persona;
+- pubblicare contenuti in violazione dei presenti Termini;
+- utilizzare la piattaforma per organizzare corse illegali, condotte stradali pericolose o altre attività contrarie alla legge.
 
----
+## 20. Avvertenze specifiche sulla sicurezza motociclistica
 
-## 8. Avvertenza sulla sicurezza
+Guidare o viaggiare in moto comporta rischi intrinseci, inclusi incidenti, lesioni gravi e morte.
 
-Passengers è destinata a facilitare le connessioni tra utenti, non a garantire esiti sicuri.
+Ogni utente è responsabile di:
 
-Riconosci e accetti che:
+- rispettare il codice della strada e le norme locali;
+- possedere patente, assicurazione e requisiti obbligatori quando applicabili;
+- verificare l'idoneità e la manutenzione del veicolo;
+- utilizzare casco ed equipaggiamento richiesto o appropriato;
+- valutare condizioni meteo, traffico, percorso e proprie capacità;
+- non guidare sotto l'effetto di alcol, droghe o sostanze che compromettano la guida;
+- non accettare un passeggero o salire su una moto quando ritiene che la situazione non sia sicura;
+- interrompere un giro se le condizioni diventano pericolose.
 
-- incontrare persone sconosciute comporta rischi intrinseci;
-- sei l’unico responsabile nel valutare se comunicare, incontrare, viaggiare in moto con o altrimenti interagire con un altro utente;
-- devi sempre usare prudenza, buon senso e misure di sicurezza adeguate;
-- Passengers non effettua un controllo completo dei precedenti di ogni utente, salvo ove espressamente indicato diversamente.
+Le informazioni meteo disponibili nell'App sono indicative e non devono essere considerate una garanzia delle condizioni effettive lungo l'intero percorso.
 
-Passengers incoraggia fortemente gli utenti a rispettare tutte le norme del codice della strada, indossare l’equipaggiamento di sicurezza appropriato, incontrarsi in luoghi pubblici sicuri ed evitare comportamenti non sicuri o illegali.
+## 21. Recensioni, valutazioni e feedback
 
----
+Recensioni, valutazioni e feedback devono essere:
 
-## 9. Recensioni, valutazioni e feedback
+- basati su esperienze reali;
+- espressi in buona fede;
+- pertinenti;
+- rispettosi;
+- non diffamatori, minacciosi o manipolativi.
 
-Se il Servizio consente recensioni, valutazioni o feedback, tali contenuti devono essere onesti, corretti, rispettosi e basati su esperienze reali. Recensioni e valutazioni non devono essere utilizzate per molestare, ricattare, minacciare o diffamare altri utenti.
+Passengers può rimuovere feedback o valutazioni che violino i presenti Termini o che risultino manifestamente abusivi.
 
-Passengers può rimuovere recensioni o feedback che violino i presenti Termini.
+## 22. Pubblicità e servizi di terzi
 
----
+Il Servizio può mostrare annunci pubblicitari forniti da terzi, inclusi Google Mobile Ads/AdMob, nonché annunci o promozioni gestiti direttamente da Passengers.
 
-## 10. Risoluzione, sospensione e misure di enforcement
+Gli annunci e i link esterni possono condurre a siti, app o servizi non controllati da Passengers. L'utilizzo di tali servizi è soggetto alle condizioni e informative del relativo fornitore.
 
-Passengers può, in qualsiasi momento e senza preavviso ove appropriato, sospendere, limitare, rimuovere contenuti o chiudere account che:
+Passengers può inoltre integrare servizi esterni necessari al funzionamento dell'App, tra cui servizi di autenticazione, backend, notifiche, meteo e piattaforme social.
 
-- violino i presenti Termini;
-- creino rischi o possibili esposizioni legali per il Servizio o per altri utenti;
-- siano segnalati per contenuti inappropriati o condotte abusive e, a seguito di verifica, risultino in violazione dei presenti Termini;
-- tentino di eludere le attività di moderazione o di enforcement.
+Passengers non è responsabile delle condizioni, dei contenuti o delle pratiche di un servizio di terzi, salvo quanto inderogabilmente previsto dalla legge.
 
-La sospensione o la chiusura non limita eventuali altri rimedi a disposizione di Passengers.
+## 23. Sospensione, limitazione e chiusura dell'account
 
----
+Passengers può limitare, sospendere o chiudere un account, con o senza preavviso quando consentito dalla legge, se ritiene ragionevolmente che:
 
-## 11. Privacy
+- l'utente abbia violato i presenti Termini;
+- l'account sia utilizzato per frodi, abusi o attività illegali;
+- l'utente rappresenti un rischio concreto per altri utenti o per il Servizio;
+- l'utente tenti di eludere precedenti misure di moderazione;
+- sia necessario per rispettare un obbligo legale o una richiesta dell'autorità;
+- sia necessario per proteggere sicurezza, integrità o disponibilità della piattaforma.
 
-L’utilizzo del Servizio è disciplinato anche dalla nostra Informativa sulla Privacy, che spiega come raccogliamo, utilizziamo, archiviamo e divulghiamo le informazioni.
+Quando appropriato, Passengers può applicare misure meno restrittive prima della chiusura definitiva.
 
-**Informativa sulla Privacy:** [INSERISCI URL]
+## 24. Cancellazione dell'account
 
----
+L'utente può richiedere o avviare la cancellazione del proprio account attraverso le funzioni disponibili nell'App o contattando:
 
-## 12. Proprietà intellettuale
+**toppassengers@gmail.com**
 
-Fatto salvo quanto riguarda i Contenuti dell’Utente di proprietà dei rispettivi utenti, il Servizio, inclusi design, software, testi, elementi grafici, marchi, loghi e altri materiali, è di proprietà di Passengers o concesso in licenza a Passengers ed è protetto dalle leggi applicabili in materia di proprietà intellettuale.
+La cancellazione comporta il cleanup dei dati e dei file correlati secondo il flusso tecnico del Servizio, fatti salvi i dati che devono o possono essere conservati per obblighi legali, sicurezza, prevenzione abusi, contestazioni o tutela dei diritti.
 
-Non puoi utilizzare il brand Passengers, i marchi o i materiali protetti da copyright senza previa autorizzazione scritta.
+La cancellazione dell'account non comporta necessariamente la rimozione automatica di contenuti già pubblicati su piattaforme esterne, come Facebook o Instagram. Per tali contenuti può essere necessaria una richiesta specifica.
 
----
+## 25. Privacy
 
-## 13. Esclusioni di garanzia
+L'utilizzo del Servizio è disciplinato anche dalla **Privacy Policy di Passengers**, che descrive le categorie di dati trattati, le finalità, le basi giuridiche, i fornitori, i tempi di conservazione e i diritti degli interessati.
 
-IL SERVIZIO È FORNITO "COSÌ COM’È" E "COME DISPONIBILE", NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE.
+La Privacy Policy è resa disponibile nell'App e/o attraverso i canali ufficiali utilizzati per la distribuzione del Servizio.
+
+## 26. Proprietà intellettuale di Passengers
+
+Fatti salvi i Contenuti dell'Utente, il Servizio, inclusi software, design, grafica, loghi, marchi, testi di sistema, database, elementi visivi e altre componenti proprietarie, appartiene a Passengers o ai rispettivi licenzianti ed è protetto dalle leggi applicabili.
+
+Non puoi copiare, modificare, distribuire, vendere, concedere in licenza, effettuare reverse engineering o sfruttare il Servizio salvo quanto espressamente consentito dalla legge o previa autorizzazione.
+
+## 27. Disponibilità del Servizio e aggiornamenti
+
+Passengers può:
+
+- modificare funzionalità;
+- introdurre nuove funzioni;
+- sospendere funzioni obsolete;
+- limitare temporaneamente l'accesso per manutenzione o sicurezza;
+- richiedere o raccomandare l'aggiornamento dell'App;
+- rendere determinate funzioni disponibili solo in alcuni Paesi, lingue o versioni.
+
+Non è garantita la disponibilità continua e senza errori del Servizio.
+
+## 28. Esclusioni di garanzia
+
+Nei limiti massimi consentiti dalla legge, il Servizio è fornito **"così com'è"** e **"come disponibile"**.
 
 Passengers non garantisce che:
 
-- il Servizio sia sempre disponibile, ininterrotto, sicuro o privo di errori;
-- le informazioni fornite dagli utenti siano accurate o complete;
-- qualsiasi interazione, giro o accordo tra utenti sia sicuro, appropriato, riuscito o lecito.
+- il Servizio sia sempre disponibile, ininterrotto o privo di errori;
+- tutti i dati inseriti dagli utenti siano accurati o completi;
+- un utente sia effettivamente chi dichiara di essere;
+- un giro, evento o incontro sia sicuro o abbia luogo come previsto;
+- le previsioni meteo o le informazioni geografiche siano sempre precise;
+- notifiche o messaggi vengano sempre consegnati in tempo reale;
+- un contenuto abusivo venga individuato prima che altri utenti possano visualizzarlo.
 
-Nella misura massima consentita dalla legge, Passengers esclude ogni garanzia, espressa o implicita, incluse commerciabilità, idoneità per uno scopo particolare e non violazione.
+Le esclusioni non limitano i diritti inderogabili riconosciuti ai consumatori dalla legge applicabile.
 
----
+## 29. Limitazione di responsabilità
 
-## 14. Limitazione di responsabilità
+Nei limiti massimi consentiti dalla legge, Passengers e i soggetti che collaborano alla gestione del Servizio non rispondono di danni indiretti, consequenziali o imprevedibili derivanti da:
 
-Nella misura massima consentita dalla legge, Passengers e i suoi titolari, amministratori, dipendenti, collaboratori, affiliati e agenti non saranno responsabili per danni indiretti, incidentali, speciali, consequenziali, esemplari o punitivi, né per perdita di profitti, ricavi, dati, avviamento o altre perdite immateriali derivanti da o connesse a:
-
-- utilizzo o impossibilità di utilizzo del Servizio;
+- condotte o omissioni degli utenti;
+- incidenti o eventi verificatisi durante giri, incontri o eventi;
+- affidamento su informazioni inserite da altri utenti;
+- perdita o indisponibilità temporanea del Servizio;
 - contenuti generati dagli utenti;
-- condotte o interazioni tra utenti;
-- accesso non autorizzato, utilizzo o alterazione dei tuoi dati;
-- decisioni di moderazione, sospensione, blocco o rimozione adottate in buona fede.
+- servizi o piattaforme di terzi;
+- decisioni di moderazione adottate in buona fede.
 
-Ove la responsabilità non possa essere esclusa, essa sarà limitata nella misura massima consentita dalla legge applicabile.
+Nulla nei presenti Termini esclude o limita responsabilità che non possa essere esclusa o limitata per legge, inclusa la responsabilità derivante da dolo o colpa grave ove la legge applicabile lo preveda.
 
----
+## 30. Manleva
 
-## 15. Manleva
+Nei limiti consentiti dalla legge applicabile, l'utente si impegna a tenere indenne Passengers da pretese di terzi derivanti da:
 
-Accetti di difendere, manlevare e tenere indenne Passengers e i suoi titolari, amministratori, dipendenti, collaboratori, affiliati e agenti da e contro qualsiasi reclamo, responsabilità, danno, perdita e spesa derivanti da o connessi a:
+- contenuti pubblicati dall'utente in violazione di diritti altrui;
+- violazione dei presenti Termini;
+- utilizzo illecito del Servizio;
+- violazione di norme o diritti di terzi imputabile all'utente.
 
-- il tuo utilizzo del Servizio;
-- i tuoi Contenuti dell’Utente;
-- la tua violazione dei presenti Termini;
-- la tua violazione di qualsiasi legge o diritto di terzi.
+Questa clausola non si applica nella misura in cui il danno sia imputabile a Passengers o in cui la legge applicabile non consenta tale manleva.
 
----
+## 31. Modifiche ai Termini
 
-## 16. Modifiche al Servizio o ai Termini
+Passengers può aggiornare i presenti Termini quando cambiano il Servizio, le funzionalità, la normativa o le esigenze di sicurezza e moderazione.
 
-Passengers può aggiornare il Servizio e i presenti Termini di volta in volta. Quando richiesto, informeremo gli utenti delle modifiche rilevanti tramite l’app, via email o con altri mezzi ragionevoli.
+Quando richiesto, le modifiche sostanziali saranno comunicate tramite l'App, gli store, email o altri mezzi ragionevoli.
 
-L’utilizzo continuato del Servizio dopo l’entrata in vigore dei Termini aggiornati costituisce accettazione dei Termini revisionati.
+Se una modifica richiede una nuova accettazione, Passengers può chiedere all'utente di accettare la versione aggiornata prima di consentire la creazione o il caricamento di nuovi Contenuti dell'Utente o l'utilizzo di determinate funzioni.
 
----
+## 32. Legge applicabile e foro competente
 
-## 17. Legge applicabile e foro competente
+I presenti Termini sono disciplinati dalla legge italiana, **fatte salve le norme imperative eventualmente applicabili nel Paese di residenza dell'utente, incluse le norme inderogabili a tutela dei consumatori**.
 
-I presenti Termini sono disciplinati dalle leggi di [INSERISCI PAESE / GIURISDIZIONE], senza riguardo ai principi sul conflitto di leggi, salvo ove trovino applicazione norme imperative locali a tutela dei consumatori.
+Per le controversie con consumatori resta competente il giudice individuato dalle norme imperative applicabili. Per gli altri casi, la competenza è determinata secondo le regole di legge applicabili.
 
-Qualsiasi controversia derivante da o relativa ai presenti Termini o al Servizio sarà soggetta alla giurisdizione esclusiva dei tribunali di [INSERISCI CITTÀ / PAESE], salvo ove diversamente previsto dalla legge applicabile.
+## 33. Termini aggiuntivi per Apple App Store
 
----
+Se scarichi o utilizzi Passengers tramite Apple App Store:
 
-## 18. Informazioni di contatto
-
-Se hai domande, dubbi o reclami relativi ai presenti Termini, al Servizio, alla moderazione o alla sicurezza degli utenti, puoi contattare:
-
-**Supporto Passengers**  
-Email: [INSERISCI EMAIL DI SUPPORTO]  
-Indirizzo: [OPZIONALE - INSERISCI INDIRIZZO AZIENDALE]  
-Sito web: [INSERISCI URL SITO WEB]
-
----
-
-## 19. Termini aggiuntivi per Apple App Store
-
-Se scarichi o utilizzi Passengers tramite l’App Store di Apple:
-
-- i presenti Termini sono conclusi tra te e Passengers, e non con Apple;
+- i presenti Termini sono conclusi tra te e Passengers e non con Apple;
 - Apple non è responsabile del Servizio o dei suoi contenuti;
 - Apple non ha alcun obbligo di fornire manutenzione o supporto per il Servizio;
-- nella misura massima consentita dalla legge, Apple non ha alcun obbligo di garanzia rispetto al Servizio;
-- Apple e le sue controllate sono terzi beneficiari dei presenti Termini e possono farli valere nei tuoi confronti.
+- nella misura massima consentita dalla legge, Apple non ha obblighi di garanzia rispetto al Servizio;
+- Apple e le sue controllate sono terzi beneficiari delle disposizioni applicabili dei presenti Termini e possono farle valere nei confronti dell'utente nei limiti previsti dalle condizioni dell'App Store.
 
----
+## 34. Intero accordo e validità delle clausole
 
-## 20. Intero accordo
+I presenti Termini, insieme alla Privacy Policy e alle eventuali regole specifiche espressamente richiamate nell'App, costituiscono l'accordo applicabile all'utilizzo del Servizio.
 
-I presenti Termini, insieme all’Informativa sulla Privacy e a eventuali ulteriori politiche o regole espressamente richiamate, costituiscono l’intero accordo tra te e Passengers in relazione al Servizio e sostituiscono ogni precedente accordo relativo al medesimo oggetto.
+Se una clausola dovesse risultare nulla, invalida o inefficace, le altre disposizioni resteranno valide nella misura consentita dalla legge.
 
----
+L'eventuale mancato esercizio di un diritto da parte di Passengers non costituisce rinuncia a tale diritto.
 
-## Testo suggerito per il consenso in-app
+## 35. Contatti
 
-Puoi mostrare il seguente testo sintetico prima che gli utenti accedano ai contenuti generati dagli utenti nell’app:
+Per domande, reclami, segnalazioni relative ai Termini, moderazione, sicurezza o supporto:
 
-> Proseguendo, confermi di aver letto e accettato i Termini di Utilizzo e l’Informativa sulla Privacy di Passengers. Passengers adotta una politica di tolleranza zero verso contenuti inappropriati e utenti abusivi. Gli utenti possono segnalare e bloccare comportamenti abusivi direttamente nell’app.
+**Passengers**  
+**Responsabile del Servizio: Maria Grazia Rosa Sbarra**  
+**Email: toppassengers@gmail.com**
